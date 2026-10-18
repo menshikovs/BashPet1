@@ -24,4 +24,4 @@ This is a simple file manager written in Bash. It allows users to manage files a
 
 **Usage**
 
-Enter your name, choose an option from the menu, and follow the instructions. Press 0 to exit.# BashPet1
+Enter your name, choose an option from the menu, and follow the instructions. Press 0 to exit.
