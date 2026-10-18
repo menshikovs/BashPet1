@@ -18,9 +18,9 @@ This is a simple file manager written in Bash. It allows users to manage files a
 
 * Open the terminal.
 
-* Run chmod +x file_manager.sh
+* Run chmod +x manager.sh
 
-* Start with ./file_manager.sh
+* Start with ./manager.sh
 
 **Usage**
 
